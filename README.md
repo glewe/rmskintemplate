@@ -5,6 +5,11 @@
 ## Introduction
 Rainmeter is a metering software for Windows. It measures certain system values, e.g. CPU usage or network traffic, and allows to display those values on the desktop. Rainmeter offer extensive skinning options. This template provides a basic set of files and folders that you can use as a start for your own skin development.
 
+## Features
+ - HWiNFO support
+ - Global variables
+ - Three size variants of each skin
+
 ## Links
 [Documentation](https://support.lewe.com/doc/rainmeter-skin-template/)
 
